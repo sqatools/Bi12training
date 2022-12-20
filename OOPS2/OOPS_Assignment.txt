@@ -1,0 +1,25 @@
+Class StringPrograms:
+   """
+   Write 25 programs from string, each programs will have its own method
+   """
+
+Class Dictionary:
+   """
+   Write 25 programs from Dictionary, each programs will have its own method.
+   """
+
+
+Class List:
+   """
+   Write 25 programs from Dictionary, each programs will have its own method.
+   """
+
+class commond(list):
+    """
+    Wer will create object of common class and access all method program previous classes.
+    """
+
+Class String -> Class Dictionary -> Class List
+
+
+

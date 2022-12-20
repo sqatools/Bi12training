@@ -1,0 +1,7 @@
+empid_1={'name': 'john', 'email': 'john@gmail.com', 'phone': 6546546, 'salary': 50000}
+empid_3={'name': 'amit1', 'email': 'amit1@gmail.com', 'phone': 64565666546, 'salary': 70000}
+empid_4={'name': 'amit1', 'email': 'amit1@gmail.com', 'phone': 64565666546, 'salary': 70000}
+empid_5={'name': 'amit1', 'email': 'amit1@gmail.com', 'phone': 64565666546, 'salary': 70000}
+empid_6={'name': 'amit1', 'email': 'amit1@gmail.com', 'phone': 64565666546, 'salary': 70000}
+empid_7={'name': 'amit1', 'email': 'amit1@gmail.com', 'phone': 64565666546, 'salary': 70000}
+empid_8={'name': 'amit1', 'email': 'amit1@gmail.com', 'phone': 64565666546, 'salary': 70000}

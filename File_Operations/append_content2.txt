@@ -1,0 +1,6 @@
+Python dictionary is an ordered collection
+(starting from Python 3.7) of items.
+Each item of a dictionary has a key/value pair.
+Dictionaries are optimized to retrieve values
+when the key is known.
+ Its new content that we are adding

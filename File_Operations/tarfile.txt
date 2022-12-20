@@ -1,0 +1,4 @@
+3. This method removes an item with
+6. remove and return an arbitrary (key, value) item
+9. This method removes an item with
+12. remove and return an arbitrary (key, value) item

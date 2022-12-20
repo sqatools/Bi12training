@@ -1,0 +1,12 @@
+1. We are adding content with read mode
+2. dictionary by using the pop() method.
+3. This method removes an item with
+4. the provided key and returns the value.
+5. The popitem() method can be used to
+6. remove and return an arbitrary (key, value) item
+7. We are adding content with read mode
+8. dictionary by using the pop() method.
+9. This method removes an item with
+10. the provided key and returns the value.
+11. The popitem() method can be used to
+12. remove and return an arbitrary (key, value) item
